@@ -1,4 +1,6 @@
 🤖 Introduction
+
+
 Built with React.js for the user interface, Appwrite for backend services, and styled with TailwindCSS, this Movie App lets users browse trending movies, search titles, and explore content using the TMDB API. It features a responsive layout and a sleek, modern design.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 50k+ members. It's a place where people help each other out.
@@ -6,6 +8,9 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 
 ⚙️ Tech Stack
+
+
+
 Appwrite is an open-source Backend-as-a-Service (BaaS) platform that provides developers with a set of APIs to manage authentication, databases, storage, and more, enabling rapid development of secure and scalable applications.
 
 React.js is a JavaScript library developed by Meta for building user interfaces. It allows developers to create reusable UI components that manage their own state, leading to more efficient and predictable code. React is widely used for developing single-page applications (SPAs) due to its virtual DOM that improves performance and ease of maintenance.
@@ -17,6 +22,9 @@ Tailwind CSS is a utility-first CSS framework that provides low-level utility cl
 Vite is a modern build tool that provides a fast development environment for frontend projects. It offers features like hot module replacement (HMR) and optimized builds, enhancing the development experience and performance.
 
 🔋 Features
+
+
+
 👉 Browse All Movies: Explore a wide range of movies available on the platform.
 
 👉 Search Movies: Easily search for specific movies using a search function.
